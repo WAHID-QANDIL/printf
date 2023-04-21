@@ -111,5 +111,5 @@ Output:
 ```
 
 ## Authors :black_nib:
-[Wahid ali](https://github.com/WAHID-QANDIL/)
+[Wahid ali](https://github.com/WAHID-QANDIL/) and 
 [mohamed hassan](https://github.com/m0hamadhassan)
